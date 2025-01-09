@@ -5,6 +5,7 @@ author: SusanneWindfeldPedersen
 ms.author: solsen
 ms.date: 04/01/2021
 ms.topic: conceptual
+ms.reviewer: solsen
 ---
 
 # Assign a User to a Profile
@@ -27,7 +28,7 @@ When you have created a profile, you can use the **User Personalization** page t
 > [!NOTE]  
 > The **Language ID** and **Company** values are overwritten by any user values when the user starts a session. 
   
-## See Also
+## Related information
 
 [Profile Object](devenv-profile-object.md)  
 [Managing Users and Permissions](/dynamics365/business-central/ui-how-users-permissions)  

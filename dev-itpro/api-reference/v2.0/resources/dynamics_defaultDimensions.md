@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # defaultDimensions resource type
@@ -65,7 +66,7 @@ Here is a JSON representation of the defaultDimensions resource.
    "postingValidation": "string"
 }
 ```
-## See also
+## Related information
 
 [GET defaultDimensions](../api/dynamics_defaultDimension_Get.md)  
 [DELETE defaultDimensions](../api/dynamics_defaultDimension_Delete.md)  

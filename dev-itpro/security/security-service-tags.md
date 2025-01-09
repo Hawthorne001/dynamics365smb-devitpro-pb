@@ -6,6 +6,7 @@ ms.author: solsen
 
 ms.topic: conceptual
 ms.date: 01/12/2024
+ms.reviewer: solsen
 ---
 
 # Use Azure security service tags to restrict network access from/to Business Central
@@ -35,6 +36,6 @@ The group of IP addresses making up the service tag are available through the [A
 
 Learn more about service tags [Virtual network service tags](/azure/virtual-network/service-tags-overview).
 
-## See also
+## Related information
 
 [Security and protection](Security-and-Protection.md)  

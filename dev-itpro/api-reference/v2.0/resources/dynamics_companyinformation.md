@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # companyInformation resource type
@@ -80,6 +81,6 @@ Here is a JSON representation of the companyInformation resource.
 
 
 
-## See Also
+## Related information
 [GET companyInformation](../api/dynamics_companyInformation_Get.md)  
 [PATCH companyInformation](../api/dynamics_companyInformation_Update.md)

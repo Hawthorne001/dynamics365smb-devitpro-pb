@@ -7,6 +7,7 @@ ms.author: solsen
 ms.topic: conceptual
 ms.date: 03/17/2023
 ms.custom: bap-template
+ms.reviewer: solsen
 ---
 
 # Date virtual table
@@ -32,7 +33,7 @@ The date virtual table is most frequently used to provide a range of dates; the 
 You must create a list type page to access the Date virtual table. For more information, see [Page object](devenv-page-object.md).
 
 
-## See also
+## Related information
 
 [Virtual tables](devenv-virtual-tables.md)  
 [Integer virtual table](devenv-integer-virtual-table.md)

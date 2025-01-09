@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # itemCategory resource type
@@ -56,7 +57,7 @@ Here is a JSON representation of the itemCategory resource.
 
 
 
-## See Also
+## Related information
 [GET itemCategory](../api/dynamics_itemCategory_Get.md)  
 [DELETE itemCategory](../api/dynamics_itemCategory_Delete.md)  
 [POST itemCategory](../api/dynamics_itemCategory_Create.md)  

@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # cashFlowStatement resource type
@@ -59,5 +60,5 @@ Here is a JSON representation of the cashFlowStatement resource.
 
 
 
-## See Also
+## Related information
 [GET cashFlowStatement](../api/dynamics_cashFlowStatement_Get.md)

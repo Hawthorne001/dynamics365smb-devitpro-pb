@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # retainedEarningsStatement resource type
@@ -59,5 +60,5 @@ Here is a JSON representation of the retainedEarningsStatement resource.
 
 
 
-## See Also
+## Related information
 [GET retainedEarningsStatement](../api/dynamics_retainedEarningsStatement_Get.md)

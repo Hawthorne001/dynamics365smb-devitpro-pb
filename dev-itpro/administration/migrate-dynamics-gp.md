@@ -5,7 +5,7 @@ author: jenolson
 ms.topic: conceptual
 ms.devlang: al
 ms.reviewer: jswymer
-ms. search.keywords: cloud, edge, gp, migration
+ms.search.keywords: cloud, edge, gp, migration
 ms.search.form: 4003
 ms.date: 02/28/2024
 ms.author: jswymer
@@ -116,7 +116,7 @@ The GP Historical Snapshot will run as a background process after the migration 
 - [Run data upgrade](migration-data-upgrade-gp.md)
 - [Complete cloud migration](migration-finish-gp.md)  
 
-## See also
+## Related information
 
 [Dynamics GP migration to Business Central online: End-to-end overview](migrate-gp-overview.md)  
 [Compare Work in Dynamics GP to Business Central](migrate-dynamics-gp-videos.md)  

@@ -1,10 +1,11 @@
 ---
 title: Actions in the user interface
-description: Guidelines for organizing actions in the action bar for Dynamics 365 Business Central
+description: Learn about the guidelines for organizing actions when creating, extending, and customizing pages in Business Central.
 author: jacobwj
 ms.author: solsen
 ms.topic: conceptual
 ms.date: 11/03/2022
+ms.reviewer: solsen
 ---
 
 # Actions in the user interface
@@ -67,7 +68,7 @@ Don't use split buttons for action groups with actions that the user isn't perce
 
 For more information about split button groups, see [Split buttons for actions](devenv-promoted-actions.md#split-buttons-for-actions).
 
-## See also
+## Related information
 
 [Page Types and Layouts](devenv-page-types-and-layouts.md)  
 [Actions in AL](devenv-actions-overview.md)  

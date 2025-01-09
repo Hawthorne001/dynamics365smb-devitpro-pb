@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # customerSale resource type
@@ -55,5 +56,5 @@ Here is a JSON representation of the customerSale resource.
 
 
 
-## See Also
+## Related information
 [GET customerSale](../api/dynamics_customerSale_Get.md)

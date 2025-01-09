@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # agedAccountsPayable resource type
@@ -72,5 +73,5 @@ Here is a JSON representation of the agedAccountsPayable resource.
 
 
 
-## See Also
+## Related information
 [GET agedAccountsPayable](../api/dynamics_agedAccountsPayable_Get.md)

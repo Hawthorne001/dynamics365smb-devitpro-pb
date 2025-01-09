@@ -3,7 +3,7 @@ title: User experience guidelines for errors
 description: Describes how to handle error dialogs in AL code.
 author: samirdal
 ms.author: samirdal
-ms.reviewer: solsen
+ms.reviewer: jswymer
 
 ms.topic: conceptual
 ms.date: 12/21/2023
@@ -143,7 +143,7 @@ Remember these rules of thumb:
 
 For more guidelines on how to communicate to the user in a way they understand, see [Microsoft's brand voice: Above all, simple and human](/style-guide/brand-voice-above-all-simple-human).
 
-## See also
+## Related information
 
 [Microsoft’s voice guidelines](/style-guide/brand-voice-above-all-simple-human)   
 [Actionable errors](devenv-actionable-errors.md)   

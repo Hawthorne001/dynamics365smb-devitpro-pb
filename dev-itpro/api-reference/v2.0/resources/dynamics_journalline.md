@@ -6,6 +6,7 @@ ms.topic: reference
 ms.devlang: al
 ms.date: 04/01/2021
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # journalLine resource type
@@ -93,7 +94,7 @@ Here is a JSON representation of the journalLine resource.
 
 
 
-## See Also
+## Related information
 [GET journalLine](../api/dynamics_journalLine_Get.md)  
 [DELETE journalLine](../api/dynamics_journalLine_Delete.md)  
 [POST journalLine](../api/dynamics_journalLine_Create.md)  

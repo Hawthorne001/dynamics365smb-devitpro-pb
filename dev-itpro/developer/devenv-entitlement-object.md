@@ -5,6 +5,7 @@ author: SusanneWindfeldPedersen
 ms.date: 09/27/2023
 ms.topic: article
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # Entitlement object
@@ -216,7 +217,7 @@ entitlement BC_ApplicationWithAutomationScope
 }
 ```
 
-## See also
+## Related information
 
 [Developing Extensions](devenv-dev-overview.md)  
 [AL Development Environment](devenv-reference-overview.md)  

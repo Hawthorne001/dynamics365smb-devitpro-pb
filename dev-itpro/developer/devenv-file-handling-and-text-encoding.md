@@ -3,7 +3,7 @@ title: File handling and text encoding
 description: Understand how files are handled and text is encoded in Business Central.
 ms.custom: bap-template
 ms.date: 12/21/2023
-ms.reviewer: jswymer
+ms.reviewer: solsen
 
 ms.author: solsen
 ms.topic: conceptual
@@ -89,7 +89,7 @@ For example, if an XMLport can import bank files from a foreign bank in addition
 > [!NOTE]
 > In [!INCLUDE[prod_short](includes/prod_short.md)] online, you have no control over the system locale on [!INCLUDE[server](includes/server.md)]. Here, it's recommended to use UTF8/UTF16 for text encodings instead.
   
-## See Also
+## Related information
 
 [TextEncoding Property (XMLports)](properties/devenv-textencoding-property.md)  
 [File Data Type](./methods-auto/library.md)

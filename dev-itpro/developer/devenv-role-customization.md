@@ -5,6 +5,7 @@ author: SusanneWindfeldPedersen
 ms.date: 04/01/2021
 ms.topic: conceptual
 ms.author: solsen
+ms.reviewer: solsen
 ---
 
 # Customize the user interface for user roles
@@ -144,7 +145,7 @@ pagecustomization Configuration3 customizes "Customer List"
 > Currently, the `profileextension` object and profiles.json are only used internally for managing profiles from the client. You cannot develop and compile these in AL with Visual Studio Code. This will be be supported in a future release.  
 -->
 
-## See also
+## Related information
 
 [Developing Extensions](devenv-dev-overview.md)  
 [AL Development Environment](devenv-reference-overview.md)  
